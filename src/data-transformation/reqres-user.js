@@ -8,5 +8,4 @@ class TransformToReqresFormat {
 }
 
 const TransformToReqres = new TransformToReqresFormat();
-
 export { TransformToReqres }

@@ -1,10 +1,10 @@
-/*
+import { cronAutomation } from './src/jobs/cron.js';
 import express from 'express';
 
 class App {
 constructor() {
-    this.server = express()
-    this.middlewares()
+    this.server = express();
+    this.middlewares();
 }
 
 middlewares(){
@@ -14,4 +14,4 @@ middlewares(){
 }
 
 export default new App().server
-*/
+

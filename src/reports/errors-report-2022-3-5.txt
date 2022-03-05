@@ -1,0 +1,7 @@
+{ errorus: "Error", dataHora: "2022-3-5 T 20:41:40", stack: "Error
+    at ErrorReports.update (file:///c:/Users/0chro/Documents/Projects/Challenges/reqres-jsonplaceholder-automation/src/helpers/ErrorReports.helper.js:33:21)
+    at ErrorReports (file:///c:/Users/0chro/Documents/Projects/Challenges/reqres-jsonplaceholder-automation/tests.js:39:23)
+    at file:///c:/Users/0chro/Documents/Projects/Challenges/reqres-jsonplaceholder-automation/tests.js:44:1
+    at ModuleJob.run (internal/modules/esm/module_job.js:152:23)
+    at async Loader.import (internal/modules/esm/loader.js:166:24)
+    at async Object.loadESM (internal/process/esm_loader.js:68:5)" }

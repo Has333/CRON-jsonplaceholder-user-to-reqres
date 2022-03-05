@@ -7,8 +7,10 @@ class JsonPlaceHolderUserService {
                     .then(response => {
                     data = [response.data]
                     data.flat()
+                    console.log(data)
                     return data;
                     })}
+                    
                 }
 
 const JsonPlaceHolderUser = new JsonPlaceHolderUserService();
